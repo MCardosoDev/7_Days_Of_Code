@@ -1,4 +1,4 @@
-# Desafio de 7 dias com Pandas
+# Desafio de 7 dias com Pandas - Alura
 
 > dados de empréstimos dos acervos do sistema de bibliotecas da UFRN
 
